@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Kennedy\\OneDrive\\Desktop\\project4",
+            "binaryPath": "c:\\Users\\Kennedy\\OneDrive\\Desktop\\project4\\avlTree",
+            "binaryArgs": []
+        }
+    ]
+}
